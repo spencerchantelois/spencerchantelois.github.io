@@ -46,8 +46,7 @@ header_feature_image: "/uploads/Darwin.jpg"
 recipe_bookcover: "/uploads/bookcover.jpg"
 twitter_username:
 lang: en_gb
-footer_text: Copyright 2020 Spencer Chantelois
-Header photo by Darwin Vegher on Unsplash
+footer_text: Copyright 2020 Spencer Chantelois, header photo by Darwin Vegher on Unsplash
 rss: false
 email_address:
 facebook:
