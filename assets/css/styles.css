@@ -1249,3 +1249,7 @@ code.highlighter-rouge {
 ::-moz-selection {
     background: #D4D4D4
 }
+
+div.smallimage {
+  width:25%;
+}

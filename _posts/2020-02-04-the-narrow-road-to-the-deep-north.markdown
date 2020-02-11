@@ -10,7 +10,9 @@ tags:    # use [tag1,tag2]
 
 “To translate from one language into another is a fearsome task. It is fitting punishment for that human pride which led to the great confusion of languages.”  So begins Nobuyuki Yuasa in his introduction to a volume of translated travel writings by the classic Japanese poet Bashō.
 
+<div class="smallimage">
 [![350x222](/_uploads/image1.jpeg)](/_uploads/image1.jpeg)
+<\div>
 
 The mixed haiku and prose compositions included date originally from between 1684 and 1689, and this translated edition was published in 1966.  Despite both gaps in time, the compositions feel vivid and immediate and more modern than you might expect, if a bit stiff and formal.  I’m inexperienced with reading translated works, and the accessibility of _The Narrow Road to the Deep North_ was a welcome surprise.  
 
