@@ -3,7 +3,7 @@ layout: post
 title: The Wild Places
 date: 2020-02-18 10:45
 published: true
-header_feature_image:
+header_feature_image: "/_uploads/HopeRoad.jpg"
 caption:
 tags:    # use [tag1,tag2]
 ---

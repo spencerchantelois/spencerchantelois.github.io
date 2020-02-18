@@ -3,7 +3,7 @@ layout: post
 title: The Narrow Road to the Deep North
 date: 2020-02-04 16:00
 published: true
-header_feature_image:
+header_feature_image: "/_uploads/basho.jpg"
 caption:
 tags:    # use [tag1,tag2]
 ---
