@@ -1,52 +1,42 @@
 ---
-title: Any Recipe
+title: Berry Crisp Foil Packs
 date: 2019-10-19 00:00:00 Z
 tags:
-- Dutch
-- Fish
-- Main
 layout: recipe
 excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Recipe Title
+# Berry Crisp Foil Packs
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Berry crisps are delicious all year round, but you probably didn't think it was something you could throw on the grill. These foil packs are stupid-easy to make. Top with vanilla ice cream and grab a spoon.
 
 <!--more-->
 
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+- 3 c. mixed berries (raspberries, blueberries, blackberries)
+- Juice of 1/2 lemon
+- 1/4 c. brown sugar, divided
+- 2 c. old-fashioned rolled oats
+- 1 tbsp. all-purpose flour
+- 1/3 c. chopped pecans
+- 1/4 c. butter, softened and cut into cubes
+- 1 tsp. ground cinnamon
+- 1/2 tsp. kosher salt
+- Vanilla ice cream, for serving
+
 
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1.	Preheat grill to high. Create four 8-x-8” foil pouches and grease with cooking spray. In a large bowl, toss berries, lemon juice, and 1 tablespoon brown sugar until combined. Set aside.
+2.	In another bowl, stir together oats, flour, pecans, butter, remaining brown sugar, cinnamon, and salt until combined and mixture forms a crumble topping.
+3.	Layer half the berries on foil, then top with half the crumble mixture. Repeat.
+4.	Fold foil pouches and seal.
+5.	Grill until berries are bubbling and oat mixture cooked through, 15 to 20 minutes.
+6.	Let cool slightly, then top with vanilla ice cream and serve.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Serves: 4
+- Preparation time: 10 minutes, 35 minutes total
