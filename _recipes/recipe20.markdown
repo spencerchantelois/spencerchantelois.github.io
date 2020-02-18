@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Omelet in a Bag
+# Omelet in a bag
 
 Great for when there are picky eaters in the crowd. Can make as many as needed or just one if you like.
 

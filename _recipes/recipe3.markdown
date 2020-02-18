@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Breakfast Foil Packs
+# Breakfast foil packs
 
 Because even in nature you still gotta brunch.
 

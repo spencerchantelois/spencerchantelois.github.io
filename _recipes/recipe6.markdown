@@ -1,5 +1,5 @@
 ---
-title: Chocolate fondue and toasted marshmallow
+title: Chocolate Fondue and Toasted Marshmallow
 date: 2019-10-19 00:00:00 Z
 tags:
 layout: recipe

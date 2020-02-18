@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Campfire Beer Pancakes
+# Campfire beer pancakes
 
 Follow our guide to getting crisp, fluffy baked potatoes, then try one of our new toppings for a filling supper.
 

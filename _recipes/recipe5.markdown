@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Cheesy Asparagus Foil Packs
+# Cheesy asparagus foil packs
 
 This a fresher take on our famous cheesy baked asparagus. Feel free to sub in any melty cheese for the mozzarella — fontina or Gruyère would be delicious, too.
 

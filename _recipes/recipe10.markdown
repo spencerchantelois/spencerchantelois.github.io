@@ -1,5 +1,5 @@
 ---
-title: Pork, lemon & potato kebabs
+title: Pork, Lemon & Potato Kebabs
 date: 2019-10-19 00:00:00 Z
 tags:
 layout: recipe

@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Hot Dogs With Quick Cast-Iron Beans
+# Hot dogs with quick cast-iron beans
 
 Everyone at the cookout will chow down on this dish. Use your trusty cast iron skillet to whip up this 30-minute meal.
 

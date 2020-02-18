@@ -1,5 +1,5 @@
 ---
-title: Vegetarian casserole
+title: Vegetarian Casserole
 date: 2019-10-19 00:00:00 Z
 tags:
 layout: recipe

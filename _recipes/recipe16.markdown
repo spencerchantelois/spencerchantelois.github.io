@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# S'mores
+# S'mores three ways
 
 Your summer nights by the bonfire just got so much sweeter. Upgrade everyone's favorite summer dessert with these tasty takes on the classic.
 

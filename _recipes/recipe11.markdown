@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Sausage and Peppers Foil Pack
+# Sausage and peppers foil pack
 
 Pop these on the grill for a quick meal with easy clean-up.
 

@@ -1,5 +1,5 @@
 ---
-title: Buttery baked corn on the cob
+title: Buttery Baked Corn on the Cob
 date: 2019-10-19 00:00:00 Z
 tags:
 layout: recipe

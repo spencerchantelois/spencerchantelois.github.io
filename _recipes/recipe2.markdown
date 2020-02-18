@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Berry Crisp Foil Packs
+# Berry crisp foil packs
 
 Berry crisps are delicious all year round, but you probably didn't think it was something you could throw on the grill. These foil packs are stupid-easy to make. Top with vanilla ice cream and grab a spoon.
 

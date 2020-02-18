@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 order: 1
 ---
 
-# Cheesy Garlic Fries in Foil
+# Cheesy garlic fries in foil
 
 The easiest, cheesiest fries you will ever make in foil packets, baked to absolute crisp perfection!
 
