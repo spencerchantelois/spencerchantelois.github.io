@@ -8,4 +8,4 @@ tags:
 description:
 ---
 
-I'm Spencer. Originally from the US, currently in Oxford. Find my posts about Tolkien, fantasy, and related subjects [here](https://spencerchantelois.blogspot.com)  Thanks for reading.
+I'm Spencer. Originally from the US, currently in Oxford. Find my posts about Tolkien, fantasy, and related subjects [here](https://spencerchantelois.blogspot.com).  Thanks for reading.
