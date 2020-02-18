@@ -1,16 +1,12 @@
 ---
-title: Recipes
+title: Campfire Recipes
 permalink: "/recipes/"
 layout: recipeshome
-subtitle: My Recipe Site
-tags: 
-hide: true
+subtitle: Outdoor Cooking
+tags:
+hide: false
 ---
 
-Here is an introduction to my recipe site
+[![Basho](/_uploads/CookbookCover1.jpg)](/_uploads/CookbookCover1.jpg)
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This ebook contains everything you need to become the ultimate wilderness cook.  Learn how to make simple, time-tested meals - from skewers to skillets.  Included in these pages are recipes for stews, eggs, do-it-yourself barbecue, and more.  Discover how to make use of a bed of coals for slow roasting, how to forage for and incorporate wild ingredients, and how to make killer trail desserts.  Make your next camping trip truly memorable, or mix up family dinner by trying a few open fire recipes at home in the back yard.  Campfire Chef teaches you all the skills and tricks every outdoor gourmet should know.  Just add fire!
