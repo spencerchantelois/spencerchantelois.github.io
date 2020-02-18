@@ -1,8 +1,8 @@
 ---
-title: About
+title: About me
 permalink: "/about/"
 layout: page
-subtitle: About me
+subtitle: 
 header_feature_image: "/uploads/bookshelves.gif"
 tags:
 description:
