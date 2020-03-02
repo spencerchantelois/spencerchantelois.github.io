@@ -25,6 +25,6 @@ Macfarlane embeds stories like these at regular intervals, and never presupposes
 
 In _The Wild Places_, Macfarlane makes fifteen separate journeys searching for wildness.  He climbs mountains and descends valleys.  He crosses the sea and sleeps under the open sky.  In the end he returns to the familiar beechwood near his Cambridge home and concludes that “wildness was here too, a short mile south of the town in which I lived.”
 
-The Wild Places  
+_The Wild Places_  
 Robert Macfarlane  
 Granta Books, 2007  
