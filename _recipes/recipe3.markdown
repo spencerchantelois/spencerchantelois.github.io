@@ -13,6 +13,8 @@ Because even in nature you still gotta brunch.
 
 <!--more-->
 
+[![Breakfast foil packs](/_uploads/breakfastfoilpack.jpg)](/_uploads/breakfastfoilpack.jpg)
+
 ## Ingredients
 
 - 6 large eggs

@@ -13,6 +13,8 @@ Pop these on the grill for a quick meal with easy clean-up.
 
 <!--more-->
 
+[![Sausage and peppers foil pack](/_uploads/sausagepeppersfoilpack.jpg)](/_uploads/sausagepeppersfoilpack.jpg)
+
 ## Ingredients
 
 - 8 Italian sausage links

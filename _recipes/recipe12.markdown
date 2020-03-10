@@ -13,6 +13,8 @@ A Mediterranean one-pot stew with peppers, courgettes, lentils, sweet smoked pap
 
 <!--more-->
 
+[![Veggie casserole](/_uploads/vegetarianbreakfast.jpg)](/_uploads/vegetarianbreakfast.jpg)
+
 ## Ingredients
 
 - 1 tbsp olive or rapeseed oil

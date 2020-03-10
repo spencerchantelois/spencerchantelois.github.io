@@ -13,6 +13,8 @@ The taste of warm, buttery corn on the cob is hard to beat on a summer day, and 
 
 <!--more-->
 
+[![Corn on the cob](/_uploads/cornonthecob.jpg)](/_uploads/cornonthecob.jpg)
+
 ## Ingredients
 
 - 100g butter, softened

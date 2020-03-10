@@ -13,6 +13,8 @@ This one-pot meal is perfect for fuss-free midweek entertaining.
 
 <!--more-->
 
+[![Chicken & couscous](/_uploads/chickencouscous.jpg)](/_uploads/chickencouscous.jpg)
+
 ## Ingredients
 
 - 8 skin on, bone-in chicken thighs

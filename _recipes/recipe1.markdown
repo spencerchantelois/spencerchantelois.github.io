@@ -13,7 +13,7 @@ A simple, classic low-fat pudding to use up seasonal Bramleys.
 
 <!--more-->
 
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
+[![Baked apples](/_uploads/bakedapples.jpg)](/_uploads/bakedapples.jpg)
 
 ## Ingredients
 

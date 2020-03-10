@@ -13,6 +13,8 @@ Not good for you? Think again, this easy to make pizza is low fat and full of ca
 
 <!--more-->
 
+[![Frying pan pizza](/_uploads/fryingpanpizza.jpg)](/_uploads/fryingpanpizza.jpg)
+
 ## Ingredients
 
 - 1 yellow pepper, deseeded and cut into chunks

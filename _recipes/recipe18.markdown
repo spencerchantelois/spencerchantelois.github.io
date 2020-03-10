@@ -13,6 +13,8 @@ The easiest, cheesiest fries you will ever make in foil packets, baked to absolu
 
 <!--more-->
 
+[![Cheesy fries](/_uploads/cheesyfries.jpg)](/_uploads/cheesyfries.jpg)
+
 ## Ingredients
 
 - 2 tablespoons olive oil

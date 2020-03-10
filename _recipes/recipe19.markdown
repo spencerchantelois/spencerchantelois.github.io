@@ -13,6 +13,8 @@ Follow our guide to getting crisp, fluffy baked potatoes, then try one of our ne
 
 <!--more-->
 
+[![Beer pancakes](/_uploads/beerpancakes.jpg)](/_uploads/beerpancakes.jpg)
+
 ## Ingredients
 
 - 3 1/3 cups All-Purpose Baking Mix (see Game Plan note)

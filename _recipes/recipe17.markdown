@@ -14,6 +14,8 @@ Everyone at the cookout will chow down on this dish. Use your trusty cast iron s
 
 <!--more-->
 
+[![Hot dogs & beans](/_uploads/hotdogsbeans.jpg)](/_uploads/hotdogsbeans.jpg)
+
 ## Ingredients
 
 - Canola oil, for grill grate

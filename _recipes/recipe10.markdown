@@ -13,6 +13,8 @@ Perfect for the BBQ, pork, lemon and potato kebabs.
 
 <!--more-->
 
+[![Kebabs](/_uploads/porkkebabs.jpg)](/_uploads/porkkebabs.jpg)
+
 ## Ingredients
 
 - 16 baby new potatoes

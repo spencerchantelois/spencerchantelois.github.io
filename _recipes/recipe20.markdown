@@ -13,6 +13,8 @@ Great for when there are picky eaters in the crowd. Can make as many as needed o
 
 <!--more-->
 
+[![Omelet](/_uploads/bagomelet.jpg)](/_uploads/bagomelet.jpg)
+
 ## Ingredients
 
 - 2 eggs

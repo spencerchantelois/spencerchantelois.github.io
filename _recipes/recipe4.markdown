@@ -13,6 +13,8 @@ Rustle up this fantastic smoky bean breakfast with chorizo, chipolatas, eggs and
 
 <!--more-->
 
+[![Campfire breakfast](/_uploads/beansbreakfast.jpg)](/_uploads/beansbreakfast.jpg)
+
 ## Ingredients
 
 - 4 tbsp olive or rapeseed oil

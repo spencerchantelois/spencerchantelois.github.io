@@ -13,6 +13,8 @@ Berry crisps are delicious all year round, but you probably didn't think it was 
 
 <!--more-->
 
+[![Berry crisp](/_uploads/berrycrisp.jpg)](/_uploads/berrycrisp.jpg)
+
 ## Ingredients
 
 - 3 c. mixed berries (raspberries, blueberries, blackberries)

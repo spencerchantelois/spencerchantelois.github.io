@@ -13,6 +13,8 @@ A fresh spin on the traditional pudding, this nutty, fruity crumble is great for
 
 <!--more-->
 
+[![Apricot & almond crumble](/_uploads/apricotcrumble.jpg)](/_uploads/apricotcrumble.jpg)
+
 ## Ingredients
 
 - 2 x 410g cans apricots, drained

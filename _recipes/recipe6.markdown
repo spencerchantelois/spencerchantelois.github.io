@@ -13,6 +13,8 @@ There's no getting away from it, toasted marshmallows are a messy business - but
 
 <!--more-->
 
+[![Marshmallows](/_uploads/marshmallows.jpg)](/_uploads/marshmallows.jpg)
+
 ## Ingredients
 
 - 400g dark chocolate

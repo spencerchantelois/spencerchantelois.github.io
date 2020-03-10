@@ -13,6 +13,8 @@ This a fresher take on our famous cheesy baked asparagus. Feel free to sub in an
 
 <!--more-->
 
+[![Cheesy asparagus](/_uploads/cheesyasparagus.jpg)](/_uploads/cheesyasparagus.jpg)
+
 ## Ingredients
 
 - 1 lb. asparagus, stalks trimmed

@@ -13,6 +13,8 @@ A delicious one-pot of spicy braised beef is a great, stress-free way to fill up
 
 <!--more-->
 
+[![Chilli](/_uploads/chilli.jpg)](/_uploads/chilli.jpg)
+
 ## Ingredients
 
 - up to 6 tbsp sunflower oil

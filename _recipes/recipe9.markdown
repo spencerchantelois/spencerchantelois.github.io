@@ -13,6 +13,8 @@ Follow our guide to getting crisp, fluffy baked potatoes, then try one of our ne
 
 <!--more-->
 
+[![Jacket potatoes](/_uploads/jacketpotatoes.jpg)](/_uploads/jacketpotatoes.jpg)
+
 ## Ingredients
 
 - 50g light soft cheese

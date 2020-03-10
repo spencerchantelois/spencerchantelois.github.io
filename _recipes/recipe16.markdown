@@ -14,6 +14,8 @@ Your summer nights by the bonfire just got so much sweeter. Upgrade everyone's f
 
 <!--more-->
 
+[![S'mores](/_uploads/smores.jpg)](/_uploads/smores.jpg)
+
 ## Ingredients
 
 ### Strawberry S'mores
