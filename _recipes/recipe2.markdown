@@ -13,7 +13,7 @@ Berry crisps are delicious all year round, but you probably didn't think it was 
 
 <!--more-->
 
-[![Berry crisp](/_uploads/berrycrisp.jpg)](/_uploads/berrycrisp.jpg)
+[![Berry crisp](/_uploads/berrycrisp.jpeg)](/_uploads/berrycrisp.jpeg)
 
 ## Ingredients
 
