@@ -1,0 +1,27 @@
+---
+layout: post
+title: The Wood
+date: 2020-5-02 19:00
+published: true
+header_feature_image: "/_uploads/wood.jpg"
+caption:
+tags:    # use [tag1,tag2]
+---
+
+One of my favorite things about living in the UK has been putting myself through a crash course of classic and new British (and Irish) nature writing.  Robert Macfarlane started it off for me, and I was spurred on to read books like Nan Shepherd’s _The Living Mountain_ and Mark Boyle’s _The Way Home_.  I’ve also dipped into pastoral poets like Patrick Kavanagh, Edward Thomas, and Robert Frost.  There’s a loose family of writers and connected traditions around landscape and nature in British literature which I find to be more rewarding than almost anything else.  _The Wood_ by John Lewis-Stempel is one highlight among many.
+
+[![The Wood](/_uploads/wood.jpg)](/_uploads/wood.jpg)
+
+A diary of the author’s time tending a small managed woodland, _The Wood_ is equally practical and contemplative.  Lewis-Stempel notes the proper techniques of herding forest-grazing pigs, of collecting fodder from wild trees.  He has a way of imparting flashes of experience through words.
+
+>“A sorceror’s dawn, red and violent; an ember of kestrel sits on the telephone wire.”
+
+Lewis-Stempel’s words are razor sharp and specific.  He quotes poetry like Frost’s “Stopping by Woods on a Snowy Evening” in order to convey a sense of connection through time and space to other woods, other minds.  But ultimately the writing is simple and unencumbered, a plain story of a man working within nature.  It’s his job for four years to practically live inside a small patch of old English woodland and be its caretaker – to cultivate it in the old way which peasant farmers practiced for centuries.  The rhythms of work and wonder, observation and commentary, drive forward the story of his final year in the wood.  As is inevitable in any such story, his allotted time comes to a close, and he remarks on the irreversibly changing season:
+
+>“The year has turned – it cannot be gainsaid. The year has turned. And in Cockshutt the trees know it. I harvest my thoughts in this end of time. It is the nature of the oak to be still; it is the nature of the kestrel to wander with the wind.”
+
+As I reflect on a period of my own life coming to a close, having been rooted in a place and now coming uprooted, I take comfort in Lewis-Stempel’s conclusion.  "It is the nature of the oak to be still; it is the nature of the kestrel to wander with the wind."  Changes will come, and woods themselves are always under threat of irreparable change from agriculture and development, but there is nothing more natural than ends and new beginnings.
+
+_The Wood: The Life & Times of Cockshutt Wood_  
+John Lewis-Stempel  
+Black Swan, 2019
