@@ -36,7 +36,7 @@ defaults:
 baseurl: ''
 url: https://spencerchantelois.github.io
 description: A website with blog posts
-avatar: assets/img/face.jpg
+avatar: assets/img/oldpic.jpg
 favicon: assets/favicon.ico
 gridlayout: false
 recipemenu: false
