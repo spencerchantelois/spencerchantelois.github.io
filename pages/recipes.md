@@ -2,9 +2,9 @@
 title: Campfire Recipes
 permalink: "/recipes/"
 layout: recipeshome
-subtitle: 
+subtitle:
 tags:
-hide: false
+hide: true
 ---
 
 
